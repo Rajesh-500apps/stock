@@ -21,6 +21,6 @@ curl --location --request POST 'http://127.0.0.1:5000/stock' \
 --form 'range="20"```
 
 
-##### Video
+##### Video:
 ``` Video
 https://drive.google.com/file/d/1Wdpwfs7kWlC7wkwIo9i-OsD6XUqqxNYo/view?usp=drivesdk
